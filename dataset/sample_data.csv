@@ -1,0 +1,3 @@
+image,text,labels
+sample1.jpg,"Does this image contain nudity or weapons?",Nudity
+sample2.jpg,"Is there a visible weapon in this image?",Weapons
